@@ -128,7 +128,7 @@ const max = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=notdezzi&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true" />
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=notdezzi&hide_border=true&theme=tokyonight" />
 
