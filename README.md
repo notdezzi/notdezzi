@@ -140,7 +140,7 @@ const max = {
 
 **Let's connect**
 
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/notdezzi)
+
 
 </div>
 
